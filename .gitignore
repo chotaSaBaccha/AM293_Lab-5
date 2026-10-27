@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+warehouse.json
+warehouse_audit.log
